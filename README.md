@@ -33,7 +33,8 @@
 def greet(name):  
     print(f"환영합니다, {name}님!")  
 
-greet("성환")'''
+greet("성환")
+```
 ---
 
 ## 링크와 이미지
